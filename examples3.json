@@ -1,0 +1,42 @@
+{
+    "words": {
+        "hello": ["h3ll0x"],
+        "world": ["w0rld1"],
+        "computer": ["c0mpu74r"],
+        "python": ["py7h0n2"],
+        "code": ["c0d3x"],
+        "programming": ["pr06x"],
+        "testing": ["73s7ing"],
+        "debug": ["d3bu6x"],
+        "syntax": ["syn7x1"],
+        "function": ["funk7x"]
+    },
+    "letters": {
+        "A": ["4x"],
+        "B": ["8x"],
+        "C": ["(x"],
+        "D": [")x"],
+        "E": ["3x"],
+        "F": ["fx"],
+        "G": ["6x"],
+        "H": ["#x"],
+        "I": ["!x"],
+        "J": ["jx"],
+        "K": ["kx"],
+        "L": ["1x"],
+        "M": ["mx"],
+        "N": ["nx"],
+        "O": ["0x"],
+        "P": ["9x"],
+        "Q": ["qx"],
+        "R": ["rx"],
+        "S": ["5x"],
+        "T": ["7x"],
+        "U": ["ux"],
+        "V": ["vx"],
+        "W": ["wx"],
+        "X": ["xx"],
+        "Y": ["yx"],
+        "Z": ["zx"]
+    }
+}
